@@ -1,0 +1,26 @@
+body {
+    background-attachment: scroll;
+    background: #e4b975 url(https://classic.chubrik.ru/app/pictures/Beethoven.gif);
+    position: relative;
+    bottom: 1px;
+    right: 1px;
+}
+.table {
+    margin:0 auto;
+}
+.tableTonic {
+    background: #e4b975;
+    font-size: 25px;
+}
+.tableLad {
+    background: #e4b975;
+    font-size: 25px;
+}
+.tableChord {
+    background: #e4b975;
+    font-size: 25px;
+}
+header{
+    background: #e4b975;
+    font-size:x-large;
+}
